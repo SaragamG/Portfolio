@@ -16,7 +16,7 @@
 Developed a specialized chatbot leveraging Langchain and the OpenAI API to process and interpret designated documentation. This innovative solution efficiently responds to user inquiries by extracting relevant information from the provided documentation.
 
 ### CU Spots
-[Publication](https://github.com/SaragamG/CU-Spots.git)
+[Project](https://github.com/SaragamG/CU-Spots.git)
 
 The purpose of this application is to rate various places on campus. This will give people information on the best places to do anything at CU Boulder. Users will be able to see places people have rated on a map and choose to visit them. Users can also rate new spots they have found or existing spots.
 
